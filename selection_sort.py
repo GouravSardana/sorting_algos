@@ -17,5 +17,5 @@ def selection_sort(lst):
 
 	return lst # return sorted list
 
-
-print(selection_sort([5, 7, 14, 2, 8]))
+l=list(map(int, input().split())
+print(selection_sort(l))
